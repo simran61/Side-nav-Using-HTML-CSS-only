@@ -42,7 +42,7 @@ header{
 }
 
 .btn:hover{
-	background: #0D9DBB;
+	background: #0a839b;
 }
 
 .sidebar{
@@ -68,7 +68,6 @@ header{
 	color: #ccc;
 	margin-top: 0;
 	margin-bottom: 20px;
-	/* letter-spacing: 1.5px; */
 }
 
 .sidebar a{
